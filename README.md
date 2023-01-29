@@ -5,7 +5,7 @@ The denomination MIPS refers to a family of RISC processors developed by MIPS Te
 This project consisted in the implementation of the MIPS processor using the hardware description language VHDL, and it was developed for "Computer Architecture 1" of Systems Engineering.
 
 ## How to run it
-To execute the program, click the following [link](https://edaplayground.com/x/fTGt) which will redirect you to the Eda Playgroung website where the whole project is already laid out for you, everything left to do is press the ***Run*** button in the top left corner.
+To execute the program, click the following [link](https://edaplayground.com/x/fTGt) which will redirect you to the Eda Playground website where the whole project is already laid out for you, everything left to do is press the ***Run*** button in the top left corner.
 Once the program is successfully compiled and executed, a new window will be prompted,giving you the possibility to inspect the values of all the signals involved in the processor and its components across the whole execution of the program.
 
 ## Characteristics
