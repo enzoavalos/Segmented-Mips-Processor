@@ -2,7 +2,7 @@
 The denomination MIPS refers to a family of RISC processors developed by MIPS Technologies. The following project will be based on the version detailed by David A. Patterson and John L. Hennessy in the book "Computer Organization and Design".
 
 ## About the project
-This project consisted in the implementation of the MIPS processor using the hardware description language VHDL, and it was developed for "Computer Architecture 1" of Systems Engineering.
+This project consisted in the implementation of the MIPS processor using the hardware description language VHDL, and it was developed for "Computer Architecture 1" of Computer Engineering.
 
 ## How to run it
 To execute the program, click the following [link](https://edaplayground.com/x/fTGt) which will redirect you to the Eda Playground website where the whole project is already laid out for you, everything left to do is press the ***Run*** button in the top left corner.   
